@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmewader&show_icons=true&theme=aura_dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmewader&layout=compact&theme=aura_dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jmewader&show_icons=true&theme=noctis_minimus" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmewader&layout=compact&theme=noctis_minimus" />
 </div>
