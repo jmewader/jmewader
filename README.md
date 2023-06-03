@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <img align="center" alt="Jmewader-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img align="center" alt="Jmewader-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Jmewader-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /> 
-  <img align="right" width="180" src="https://i.ibb.co/HFdHm9t/gg276b9724fe.gif" alt="Jmewader-Gif" border="0">
+  <img align="right" width="120" src="https://i.ibb.co/HFdHm9t/gg276b9724fe.gif" alt="Jmewader-Gif" border="0">
 </div>
  
 ##
