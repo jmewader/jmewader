@@ -2,9 +2,7 @@
   <img height="170em" src="https://streak-stats.demolab.com/?user=jmewader&theme=omni" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmewader&layout=compact&theme=omni" />  
 </div>
-
 ##
-
 <div style="display: inline-block"><br>
   <img align="center" alt="Jmewader-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Jmewader-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
