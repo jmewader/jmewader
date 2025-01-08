@@ -1,5 +1,5 @@
 <div>
-  <img height="170em" src="https://streak-stats.demolab.com/?user=jmewader&theme=dracula" />
+  <img height="170em" src="https://streak-stats.demolab.com?user=jmewader&theme=dracula" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmewader&layout=compact&theme=dracula" />
 </div>
 
