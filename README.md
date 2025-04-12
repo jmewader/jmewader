@@ -1,6 +1,6 @@
 <div>
-  <img height="170em" src="https://git-hub-streak-stats.vercel.app?user=jmewader&theme=darcula" alt="GitHub Streak" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmewader&layout=compact&theme=darcula" />
+  <img height="170em" src="https://git-hub-streak-stats.vercel.app?user=jmewader&theme=highcontrast" alt="GitHub Streak" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmewader&layout=compact&theme=highcontrast" />
 </div>
 
 ##
