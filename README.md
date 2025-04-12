@@ -1,7 +1,6 @@
 <div>
-  <img height="170em" src="https://streak-stats.vercel.app?user=jmewader&theme=gruvbox-duo" />
-  <img src="https://git-hub-streak-stats.vercel.app?user=jmewader&theme=gruvbox-duo" alt="GitHub Streak" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmewader&layout=compact&theme=gruvbox-duo" />
+  <img src="https://git-hub-streak-stats.vercel.app?user=jmewader&theme=darcula" alt="GitHub Streak" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmewader&layout=compact&theme=darcula" />
 </div>
 
 ##
