@@ -1,8 +1,3 @@
-<div>
-  <img height="170em" src="https://git-hub-streak-stats.vercel.app?user=jmewader&theme=highcontrast" alt="GitHub Streak" />
-</div>
-
-##
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Jmewader-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
